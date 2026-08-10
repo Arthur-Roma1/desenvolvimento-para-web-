@@ -2,5 +2,5 @@
 
 professor: Israel da cunha 
 
-atividades de front end
+atividades e projetos de front end
 
